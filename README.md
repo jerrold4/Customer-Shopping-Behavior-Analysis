@@ -46,3 +46,6 @@ This project analyzes customer shopping behavior using transactional data. It co
 - Hats and sneakers had the highest discount usage
 - Loyal customers formed the majority segment
 - Young adults contributed the highest revenue
+
+▶️ How to Run
+1. 	Clone the repository
