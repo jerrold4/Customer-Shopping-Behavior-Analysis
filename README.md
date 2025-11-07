@@ -49,3 +49,6 @@ This project analyzes customer shopping behavior using transactional data. It co
 
 ▶️ How to Run
 1. 	Clone the repository
+https://github.com/jerrold4/Customer-Shopping-Behavior-Analysis.git
+
+
